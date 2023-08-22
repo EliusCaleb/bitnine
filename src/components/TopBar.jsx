@@ -33,22 +33,22 @@ const TopBar = () => {
         </div>
         <div className="ml-4">
           <Link to="" className="text-yellow-600">
-            <AiOutlineGithub className="github-icon w-8 h-8" />
+            <AiOutlineGithub  size={15} className="github-icon w-8 h-8" />
           </Link>
         </div>
         <div className="ml-4 ">
           <Link to="" className="text-white ">
-            <AiOutlineYoutube className="youtube-icon w-8 h-8" />
+            <AiOutlineYoutube  size={15} className="youtube-icon w-8 h-8"  />
           </Link>
         </div>
         <div className="ml-4">
           <Link to="" className="text-white">
-            <AiOutlineLinkedin className="linkedin-icon w-8 h-8" />
+            <AiOutlineLinkedin  size={15} className="linkedin-icon w-8 h-8" />
           </Link>
         </div>
         <div className="ml-4">
           <Link to="" className="text-white">
-            <AiOutlineFacebook className="facebook-icon w-8 h-8" />
+            <AiOutlineFacebook  size={15} className="facebook-icon w-8 h-8" />
           </Link>
         </div>
         <div className="ml-4">
