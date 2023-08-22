@@ -1,3 +1,26 @@
 @tailwind base;
 @tailwind components;
-@tailwind utilities;
+@tailwind utilities; 
+
+/* custom.css */
+
+/* GitHub Icon */
+.github-icon:hover {
+  color: #ffffff; 
+}
+
+/* YouTube Icon */
+.youtube-icon:hover {
+  color: #ff0000; 
+}
+
+/* LinkedIn and Facebook Icons */
+.linkedin-icon:hover,
+.facebook-icon:hover {
+  color: #0077b5; 
+}
+
+/* Medium Icon */
+.medium-icon:hover {
+  color: #00ab6c; 
+}
