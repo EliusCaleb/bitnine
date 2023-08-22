@@ -3,7 +3,10 @@
 @tailwind utilities; 
 
 /* custom.css */
-
+ /* contact */
+ .contact:hover{
+   color:antiquewhite
+ }
 /* GitHub Icon */
 .github-icon:hover {
   color: #ffffff; 

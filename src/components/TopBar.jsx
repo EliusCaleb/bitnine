@@ -27,6 +27,11 @@ const TopBar = () => {
           <AiOutlineSearch className="p-2" />
         </div>
         <div className="ml-4">
+          <Link to="/contact" className="text-white">
+            CONTACT
+          </Link>
+        </div>
+        <div className="ml-4">
           <Link to="" className="text-yellow-600">
             <AiOutlineGithub className="github-icon w-8 h-8" />
           </Link>
